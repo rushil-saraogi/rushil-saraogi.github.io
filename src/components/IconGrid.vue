@@ -39,9 +39,7 @@
         </div>
       </div>
     </LinkCard>
-    <LinkCard
-      text-class="text-white"
-    >
+    <LinkCard text-class="text-white">
       <div class="text-white">
         Past, engineering at
         <a
@@ -66,7 +64,7 @@
       text-class="text-white"
       bg-class="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500"
     >
-      <div>
+      <div class="flex flex-col items-center">
         <AskWinstonLogo class="h-6" />
         <div class="text-white font-semibold mt-3">Founder at AskWinston</div>
       </div>
