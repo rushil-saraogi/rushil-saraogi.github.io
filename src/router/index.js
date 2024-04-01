@@ -1,11 +1,17 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import HomeView from '@/views/HomeView.vue'
+import TailwindLetter from '@/views/TailwindLetter.vue'
 
 const routes = [
   {
     path: '/',
     name: 'home',
     component: HomeView
+  },
+  {
+    path: '/tailwind-letter',
+    name: 'tailwind-letter',
+    component: TailwindLetter
   },
   {
     path: '/about',
