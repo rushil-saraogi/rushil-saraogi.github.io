@@ -40,7 +40,7 @@
         <p class="mt-3 text-white/80">
             While I have a massive graveyard of half finished projects (a lot of them using Tailwind) a recent one I'm particularly proud of is AskWinston.
             AskWinston is a platform that allows hotels to quickly use a no code interface to put together a mobile optimized site for guests. The platform gives guests instant access to hotel services
-            and also provides a number of back-office tools that integrate with the guest facing front-end.
+            and also provides a number of back-office tools that integrate with the guest facing front end.
             You can find it hosted here - <a class="text-indigo-300" href="https://www.askwinston.app/">AskWinston</a>.
         </p>
         <p class="mt-3 text-white/80">Logins are currently restricted to a test group but I'd be happy to provide a demo anytime.</p>
