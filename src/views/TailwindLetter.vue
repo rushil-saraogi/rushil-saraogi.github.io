@@ -21,7 +21,6 @@
         </div>
       </div>
     </div>
-
     <div class="mt-8 sm:mt-12 text-left">
         <div class="text-lg border-b py-2 border-white/10">About me</div>
         <p class="mt-3 text-white/80">
@@ -44,7 +43,7 @@
             and also provides a number of back-office tools that integrate with the guest facing front-end.
             You can find it hosted here - <a class="text-indigo-300" href="https://www.askwinston.app/">AskWinston</a>.
         </p>
-        <p class="mt-3 text-white/80">Logins are currently restricted to a few users but I'd be happy to provide a demo if you're interested.</p>
+        <p class="mt-3 text-white/80">Logins are currently restricted to a test group but I'd be happy to provide a demo anytime.</p>
     </div>
   </div>
 </template>
